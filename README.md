@@ -2,8 +2,6 @@
 
 Homework made for the OOP course
 
-The organizers of a music and film festival have several offices in the country where they are sold tickets at festival. A software system is used at each office to sell tickets.
-
 The person from each office uses an application with the following functionalities:
 
 1. Login. After successful authentication, all artists are displayed (name, date, location of
